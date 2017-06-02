@@ -1,0 +1,6 @@
+<project name="waud" url="https://github.com/dubit/waud" license="GPL">
+    <user name="dubit"/>
+    <tag v="javascript"/>
+    <description>Standard JavaScript ECMAScript v5 Type Definitions for HaXe</description>
+    <version name="0.9.4">0.9.4</version>
+</project>
